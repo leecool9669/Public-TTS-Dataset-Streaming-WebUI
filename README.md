@@ -1,2 +1,1 @@
-# Public-TTS-Dataset-Streaming-WebUI
-WebUI demo for streaming TTS models trained on public datasets, sharing the same interface as tts-0.75b-en-public-WebUI.
+(This repository focuses on streaming TTS WebUI demos trained on public datasets; it mirrors the interface design of tts-0.75b-en-public-WebUI.)
